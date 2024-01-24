@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mercy Masibo
 - 👀 I’m interested in exploring AI avenues to my advantage
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on creating an ERP system
 - 📫 How to reach me masibo.mercy@outlook.com
 - 😄 Pronouns: her/she
